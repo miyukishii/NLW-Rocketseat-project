@@ -1,6 +1,6 @@
 ## **Bem-vindo ao repositório do projeto Find your Duo!**
 
-![Logo da NLW 2022](nlw.png)
+![Logo da NLW 2022](nlw.svg)
 
 ### Contexto
 Find Your Duo é uma plataforma que ajuda gamers a encontrar um parceiro ou parceira para jogar online seu game favorito.
